@@ -1,4 +1,4 @@
-# Releases:
+# Discourje Releases
 
  * ESEC/FSE 2021 (v1.2; coming soon)
  * [ISoLA 2020](https://github.com/discourje/releases/releases/tag/v1.1) (v1.1)
